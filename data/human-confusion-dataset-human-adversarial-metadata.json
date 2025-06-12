@@ -52,40 +52,40 @@
   },
   "distribution": [
     {
-      "contentUrl": "https://github.com/kailasdayanandan/dual_thinking/releases/download/v0.0.1-dataset-release/human-confusion-dataset.0.1.zip",
+      "contentUrl": "https://github.com/kailasdayanandan/dual_thinking/releases/download/v0.0.1-dataset-release/human-confusion-dataset.0.3.zip",
       "contentSize": "160 MB",
       "encodingFormat": "application/zip",
-      "@id": "human-confusion-dataset.0.1.zip",
+      "@id": "human-confusion-dataset.0.3.zip",
       "@type": "cr:FileObject",
-      "name": "human-confusion-dataset.0.1.zip",
+      "name": "human-confusion-dataset.0.3.zip",
       "description": "Archive containing all the contents of the Human Confusion Dataset"
     },
     {
       "includes": "*.jpg",
       "containedIn": {
-        "@id": "human-confusion-dataset.0.1.zip"
+        "@id": "human-confusion-dataset.0.3.zip"
       },
       "encodingFormat": "image/jpeg",
       "@id": "image-jpeg_fileset",
       "@type": "cr:FileSet",
       "name": "image/jpeg files",
-      "description": "image/jpeg files contained in human-confusion-dataset.0.1.zip"
+      "description": "image/jpeg files contained in human-confusion-dataset.0.3.zip"
     },
     {
       "includes": "*.png",
       "containedIn": {
-        "@id": "human-confusion-dataset.0.1.zip"
+        "@id": "human-confusion-dataset.0.3.zip"
       },
       "encodingFormat": "image/png",
       "@id": "image-png_fileset",
       "@type": "cr:FileSet",
       "name": "image/png files",
-      "description": "image/png files contained in human-confusion-dataset.0.1.zip"
+      "description": "image/png files contained in human-confusion-dataset.0.3.zip"
     },
     {
       "contentUrl": "annotations_Final.csv",
       "containedIn": {
-        "@id": "human-confusion-dataset.0.1.zip"
+        "@id": "human-confusion-dataset.0.3.zip"
       },
       "encodingFormat": "text/csv",
       "@id": "annotations_Final.csv_fileobject",

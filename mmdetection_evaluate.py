@@ -91,7 +91,7 @@ if __name__ == '__main__':
 
     img_dir = './data/images'
     image_files = filenames = next(walk(img_dir), (None, None, []))[2] 
-    pretrained_dir = '/home/dell/kailasd/2024_final/output/pretrained/'
+    pretrained_dir = 'user_path/output/pretrained/'
     op_dir = 'output/model_outputs/'
 
     models = get_model_name_list()

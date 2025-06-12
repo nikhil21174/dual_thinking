@@ -9,15 +9,3 @@ The dataset can be downloaded from the link below.
 Download the dataset, extract the contents and copy the contents to data folder.
 
 Run python main_release.py
-
-**Example Scripts** 
-
-Examples of images in dataset and different categories of errors are shown in the below notebook.
-
-[example_scripts/Exploring_Dataset.ipynb](https://colab.research.google.com/github/nikhil21174/dual_thinking/blob/main/example_scripts/Exploring_Dataset.ipynb#scrollTo=JAkdc7yyUYoD)
-
-The script to reproduce results and figures in paper are shown in the below notebook.
-
-[example_scripts/Results.ipynb](https://colab.research.google.com/github/nikhil21174/dual_thinking/blob/main/example_scripts/Results.ipynb)
-
-

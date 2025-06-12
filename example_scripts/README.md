@@ -3,7 +3,7 @@
 
 Images in dataset and examples of different categories of errors are shown in the below script.
 
-[example_scripts/Exploring_Dataset.ipynb](https://colab.research.google.com/github/nikhil21174/dual_thinking/blob/main/example_scripts/Exploring_Dataset.ipynb)
+[example_scripts/Exploring_Dataset.ipynb](https://colab.research.google.com/github/nikhil21174/dual_thinking/blob/main/example_scripts/Exploring_Dataset.ipynb#scrollTo=JAkdc7yyUYoD)
 
 Results and figures in paper can be reproduced using the below script.
 
@@ -14,7 +14,7 @@ Results and figures in paper can be reproduced using the below script.
 **Running Code Locally**
 
 Unzip the dataset from 
-[human-confusion-dataset.0.1.zip](https://drive.google.com/file/d/1gqCEH999Co5PdIsMtT2LqjbDSrGV_y5U/view?usp=drive_link)
+[human-confusion-dataset.0.3.zip](https://drive.google.com/file/d/1gqCEH999Co5PdIsMtT2LqjbDSrGV_y5U/view?usp=drive_link)
 
 Move folder images, masks, and other csv files to the data folder.
 

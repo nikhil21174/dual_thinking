@@ -6,7 +6,7 @@ Paper link - https://arxiv.org/abs/2406.06967
 
 The dataset can be downloaded from the link below.
 
-[human-confusion-dataset.0.3.zip](https://github.com/kailasdayanandan/dual_thinking/releases/download/v0.0.3-dataset-release/human-confusion-dataset.0.3.zip)
+[human-confusion-dataset.0.3.zip](https://drive.google.com/file/d/1gqCEH999Co5PdIsMtT2LqjbDSrGV_y5U/view?usp=drive_link)
 
 **Code Setup** 
 
@@ -18,11 +18,11 @@ Run python main_release.py
 
 Examples of images in dataset and different categories of errors are shown in the below notebook.
 
-[example_scripts/Exploring_Dataset.ipynb](https://github.com/kailasdayanandan/dual_thinking/blob/main/example_scripts/Exploring_Dataset.ipynb)
+[example_scripts/Exploring_Dataset.ipynb](https://colab.research.google.com/github/nikhil21174/dual_thinking/blob/main/example_scripts/Exploring_Dataset.ipynb)
 
 The script to reproduce results and figures in paper are shown in the below notebook.
 
-[example_scripts/Results.ipynb](https://github.com/kailasdayanandan/dual_thinking/blob/main/example_scripts/Results.ipynb)
+[example_scripts/Results.ipynb](https://colab.research.google.com/github/nikhil21174/dual_thinking/blob/main/example_scripts/Results.ipynb)
 
 **Citing Our Work** 
 

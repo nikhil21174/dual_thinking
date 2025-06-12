@@ -1,16 +1,3 @@
-
-**Example Notebooks**
-
-Images in dataset and examples of different categories of errors are shown in the below script.
-
-[example_scripts/Exploring_Dataset.ipynb](https://colab.research.google.com/github/nikhil21174/dual_thinking/blob/main/example_scripts/Exploring_Dataset.ipynb#scrollTo=JAkdc7yyUYoD)
-
-Results and figures in paper can be reproduced using the below script.
-
-[example_scripts/Results.ipynb](https://colab.research.google.com/github/nikhil21174/dual_thinking/blob/main/example_scripts/Results.ipynb)
-
-
-
 **Running Code Locally**
 
 Unzip the dataset from 
